@@ -11,6 +11,7 @@ import java.sql.Statement;
 import java.util.Properties;
 
 public class DBConnectivity {
+	//adding this comment to update this file
 	private Properties properties;
 	private String fileLocation = "src/test/java/resources/config.properties";
 	private Connection connection;
